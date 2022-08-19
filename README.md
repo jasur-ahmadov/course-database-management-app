@@ -1,1 +1,1 @@
-# orient-database-management-app
+# course-database-management-app
